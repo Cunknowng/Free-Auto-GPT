@@ -1,0 +1,5 @@
+services:
+  - name: god
+    github:
+      repo: https://github.com/Cunknowng/Free-Auto-GPT.git
+      branch: main
